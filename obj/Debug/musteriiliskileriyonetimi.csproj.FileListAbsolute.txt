@@ -1,0 +1,13 @@
+C:\Users\hasan.tanriverdi\source\repos\musteriiliskileriyonetimi\musteriiliskileriyonetimi\bin\Debug\musteriiliskileriyonetimi.exe.config
+C:\Users\hasan.tanriverdi\source\repos\musteriiliskileriyonetimi\musteriiliskileriyonetimi\bin\Debug\musteriiliskileriyonetimi.exe
+C:\Users\hasan.tanriverdi\source\repos\musteriiliskileriyonetimi\musteriiliskileriyonetimi\bin\Debug\musteriiliskileriyonetimi.pdb
+C:\Users\hasan.tanriverdi\source\repos\musteriiliskileriyonetimi\musteriiliskileriyonetimi\obj\Debug\musteriiliskileriyonetimi.csproj.AssemblyReference.cache
+C:\Users\hasan.tanriverdi\source\repos\musteriiliskileriyonetimi\musteriiliskileriyonetimi\obj\Debug\musteriiliskileriyonetimi.anasayfa.resources
+C:\Users\hasan.tanriverdi\source\repos\musteriiliskileriyonetimi\musteriiliskileriyonetimi\obj\Debug\musteriiliskileriyonetimi.ekle.resources
+C:\Users\hasan.tanriverdi\source\repos\musteriiliskileriyonetimi\musteriiliskileriyonetimi\obj\Debug\musteriiliskileriyonetimi.Form1.resources
+C:\Users\hasan.tanriverdi\source\repos\musteriiliskileriyonetimi\musteriiliskileriyonetimi\obj\Debug\musteriiliskileriyonetimi.guncelle.resources
+C:\Users\hasan.tanriverdi\source\repos\musteriiliskileriyonetimi\musteriiliskileriyonetimi\obj\Debug\musteriiliskileriyonetimi.Properties.Resources.resources
+C:\Users\hasan.tanriverdi\source\repos\musteriiliskileriyonetimi\musteriiliskileriyonetimi\obj\Debug\musteriiliskileriyonetimi.csproj.GenerateResource.cache
+C:\Users\hasan.tanriverdi\source\repos\musteriiliskileriyonetimi\musteriiliskileriyonetimi\obj\Debug\musteriiliskileriyonetimi.csproj.CoreCompileInputs.cache
+C:\Users\hasan.tanriverdi\source\repos\musteriiliskileriyonetimi\musteriiliskileriyonetimi\obj\Debug\musteriiliskileriyonetimi.exe
+C:\Users\hasan.tanriverdi\source\repos\musteriiliskileriyonetimi\musteriiliskileriyonetimi\obj\Debug\musteriiliskileriyonetimi.pdb

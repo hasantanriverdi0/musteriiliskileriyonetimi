@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{637898F2-3EAF-42BD-8420-5F8C05D0E99B}|musteriiliskileriyonetimi\\musteriiliskileriyonetimi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\guncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{637898F2-3EAF-42BD-8420-5F8C05D0E99B}|musteriiliskileriyonetimi\\musteriiliskileriyonetimi.csproj|solutionrelative:musteriiliskileriyonetimi\\guncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637898F2-3EAF-42BD-8420-5F8C05D0E99B}|musteriiliskileriyonetimi\\musteriiliskileriyonetimi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\ekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{637898F2-3EAF-42BD-8420-5F8C05D0E99B}|musteriiliskileriyonetimi\\musteriiliskileriyonetimi.csproj|solutionrelative:musteriiliskileriyonetimi\\ekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637898F2-3EAF-42BD-8420-5F8C05D0E99B}|musteriiliskileriyonetimi\\musteriiliskileriyonetimi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{637898F2-3EAF-42BD-8420-5F8C05D0E99B}|musteriiliskileriyonetimi\\musteriiliskileriyonetimi.csproj|solutionrelative:musteriiliskileriyonetimi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637898F2-3EAF-42BD-8420-5F8C05D0E99B}|musteriiliskileriyonetimi\\musteriiliskileriyonetimi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\guncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637898F2-3EAF-42BD-8420-5F8C05D0E99B}|musteriiliskileriyonetimi\\musteriiliskileriyonetimi.csproj|solutionrelative:musteriiliskileriyonetimi\\guncelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637898F2-3EAF-42BD-8420-5F8C05D0E99B}|musteriiliskileriyonetimi\\musteriiliskileriyonetimi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637898F2-3EAF-42BD-8420-5F8C05D0E99B}|musteriiliskileriyonetimi\\musteriiliskileriyonetimi.csproj|solutionrelative:musteriiliskileriyonetimi\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637898F2-3EAF-42BD-8420-5F8C05D0E99B}|musteriiliskileriyonetimi\\musteriiliskileriyonetimi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637898F2-3EAF-42BD-8420-5F8C05D0E99B}|musteriiliskileriyonetimi\\musteriiliskileriyonetimi.csproj|solutionrelative:musteriiliskileriyonetimi\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637898F2-3EAF-42BD-8420-5F8C05D0E99B}|musteriiliskileriyonetimi\\musteriiliskileriyonetimi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\veri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637898F2-3EAF-42BD-8420-5F8C05D0E99B}|musteriiliskileriyonetimi\\musteriiliskileriyonetimi.csproj|solutionrelative:musteriiliskileriyonetimi\\veri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637898F2-3EAF-42BD-8420-5F8C05D0E99B}|musteriiliskileriyonetimi\\musteriiliskileriyonetimi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\ekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{637898F2-3EAF-42BD-8420-5F8C05D0E99B}|musteriiliskileriyonetimi\\musteriiliskileriyonetimi.csproj|solutionrelative:musteriiliskileriyonetimi\\ekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{637898F2-3EAF-42BD-8420-5F8C05D0E99B}|musteriiliskileriyonetimi\\musteriiliskileriyonetimi.csproj|c:\\users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{637898F2-3EAF-42BD-8420-5F8C05D0E99B}|musteriiliskileriyonetimi\\musteriiliskileriyonetimi.csproj|solutionrelative:musteriiliskileriyonetimi\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ekle.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\ekle.cs",
+              "RelativeDocumentMoniker": "musteriiliskileriyonetimi\\ekle.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\ekle.cs",
+              "RelativeToolTip": "musteriiliskileriyonetimi\\ekle.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:16:52.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "guncelle.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\guncelle.cs",
+              "RelativeDocumentMoniker": "musteriiliskileriyonetimi\\guncelle.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\guncelle.cs",
+              "RelativeToolTip": "musteriiliskileriyonetimi\\guncelle.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:16:06.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "anasayfa.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\anasayfa.cs",
+              "RelativeDocumentMoniker": "musteriiliskileriyonetimi\\anasayfa.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\anasayfa.cs",
+              "RelativeToolTip": "musteriiliskileriyonetimi\\anasayfa.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAADwvz8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:13:34.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "veri.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\veri.cs",
+              "RelativeDocumentMoniker": "musteriiliskileriyonetimi\\veri.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\veri.cs",
+              "RelativeToolTip": "musteriiliskileriyonetimi\\veri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:13:19.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "giris.cs",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\giris.cs",
+              "RelativeDocumentMoniker": "musteriiliskileriyonetimi\\giris.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\giris.cs",
+              "RelativeToolTip": "musteriiliskileriyonetimi\\giris.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:06:37.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "guncelle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\guncelle.cs",
+              "RelativeDocumentMoniker": "musteriiliskileriyonetimi\\guncelle.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\guncelle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "musteriiliskileriyonetimi\\guncelle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T11:00:32.241Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ekle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\ekle.cs",
+              "RelativeDocumentMoniker": "musteriiliskileriyonetimi\\ekle.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\ekle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "musteriiliskileriyonetimi\\ekle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:57:36.104Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "anasayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\anasayfa.cs",
+              "RelativeDocumentMoniker": "musteriiliskileriyonetimi\\anasayfa.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\anasayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "musteriiliskileriyonetimi\\anasayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:53:53.683Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\giris.cs",
+              "RelativeDocumentMoniker": "musteriiliskileriyonetimi\\giris.cs",
+              "ToolTip": "C:\\Users\\hasan.tanriverdi\\source\\repos\\musteriiliskileriyonetimi\\musteriiliskileriyonetimi\\giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "musteriiliskileriyonetimi\\giris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:30:20.168Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
